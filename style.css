@@ -160,7 +160,7 @@
 .box .avatar{
     height: 40px;
     width: 40px;
-    margin-left:5px;
+    margin-left:10px;
 }
 .box .imgstr{
     width: 36px;
@@ -173,7 +173,7 @@
     width: 100px;
     height: 16px;
     font-size:14px;
-    margin-top: 0;
+    margin-top: 15px;
     margin-left: 55px;
     justify-content: left;
     align-items: center;
